@@ -20,4 +20,4 @@
 
 <div><img class="blog-article-img" src="https://github.com/SlavChek/sochi-yacht-club/blob/assets/capture_20230609214649355.bmp" width="600" height="300" alt="Предпросмотр статей блога"></div>
 6. галерея просмотра фотографий
-<div><img class="blog-article-img" src="https://github.com/SlavChek/sochi-yacht-club/blob/assets/capture_20230609214736282.bmp" width="600" height="300" alt="Предпросмотр статей блога"></div>
+<div><img class="blog-article-img" src="https://github.com/SlavChek/sochi-yacht-club/blob/assets/capture_20230609214736282.bmp" width="600" height="300" alt="Галерея просмотра фотографий"></div>
